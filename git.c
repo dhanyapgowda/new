@@ -1,4 +1,8 @@
 #include<stdio.h>
+void add()
+{
+	printf("this is add function");
+}
 //this is  a main
 void cos()
 {
