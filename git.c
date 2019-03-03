@@ -1,5 +1,5 @@
 #include<stdio.h>
-void add()
+void add(aa1,aa2aa1,aa2aa1,aa2aa1,aa2aa1,aa2aa1,aa2aa1,aa2aa1,aa2aa1,aa2aa1,aa2aa1,aa2)
 {
 	printf("this is add function");
 }
